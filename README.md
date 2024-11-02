@@ -225,6 +225,7 @@ Here’s a mapping of Kannada keywords to their Python equivalents, You can Chan
 Here's a simple examples using Above Kannada_keywords:
 
 **calculator.py**
+- [Download calculator.py](http://raw.githubusercontent.com/mithun50/pyKannada/main/pyKannada_Examples/calculator.py)
 ```python
 ಎ = ಪೂರ್ಣಸಂಖ್ಯೆ(ಒಳಸೇರಿಸು('ಮೊದಲ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ: '))
 ಬ = ಪೂರ್ಣಸಂಖ್ಯೆ(ಒಳಸೇರಿಸು('ಎರಡನೇ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ: '))
