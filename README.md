@@ -248,6 +248,7 @@ Here's a simple examples using Above Kannada_keywords:
 ಎಣಿಕೆ(ಎ, ಬ, ಚಲನ)
 ```
 **quiz.py** 
+- [Download calculator.py](http://raw.githubusercontent.com/mithun50/pyKannada/main/pyKannada_Examples/quiz.py)
 ```python
 ಪ್ರಶ್ನೆಗಳು = [
     {"ಪ್ರಶ್ನೆ": "ಕನ್ನಡದ ಜನಪ್ರಿಯ ಕವಿ ಯಾರು?", "ಉತ್ತರ": "ಕುವಿ ಎಂ. ಚಿದಾನಂದ"},
